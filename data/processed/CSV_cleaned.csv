@@ -1,0 +1,39 @@
+ID,Name,Category,City,Value,Date
+1,Charlie,category c,chicago,46.0,2023-04-13
+2,Jane,category c,houston,53.0,2023-12-15
+3,Jane,category a,chicago,68.0,2023-09-28
+5,Jane,category c,houston,71.0,2023-03-13
+6,Eve,category a,los angeles,61.0,2023-07-08
+7,Jane,category a,chicago,48.0,2023-01-21
+8,Bob,category b,new york,65.0,2023-04-13
+9,Bob,category b,los angeles,,2023-05-02
+10,Dave,category b,los angeles,11.0,2023-08-03
+12,Dave,category a,houston,10.0,2023-03-29
+13,Bob,category c,chicago,11.0,2023-04-10
+16,Dave,category a,houston,64.0,2023-05-11
+19,John,category a,houston,79.0,2023-09-15
+20,Bob,category a,chicago,25.0,2023-12-10
+21,Jane,category b,houston,68.0,2023-10-21
+23,Bob,category b,houston,68.0,2023-10-04
+24,Jane,category b,chicago,99.0,2023-06-10
+25,Charlie,category a,chicago,28.0,2023-11-10
+27,Charlie,category b,los angeles,42.0,2023-09-10
+28,Jane,category a,los angeles,48.0,2023-08-24
+29,Bob,category b,houston,10.0,2023-12-11
+30,Charlie,category c,new york,66.0,2023-02-18
+31,Eve,category a,houston,32.0,2023-02-28
+37,Jane,category a,chicago,46.0,2023-02-20
+38,Charlie,category b,los angeles,18.0,2023-12-30
+40,Charlie,category a,new york,12.0,2023-09-01
+43,Dave,category c,new york,81.0,2023-11-03
+44,Grace,category c,chicago,93.0,2023-05-15
+45,Charlie,category b,new york,98.0,2023-01-21
+47,Bob,category c,houston,91.0,2023-06-16
+48,John,category b,new york,44.0,2023-10-01
+49,Charlie,category b,chicago,50.0,2023-03-30
+50,Grace,category a,chicago,77.0,2023-11-12
+40,Charlie,category a,new york,12.0,2023-09-01
+31,Eve,category a,houston,32.0,2023-02-28
+49,Charlie,category b,chicago,50.0,2023-03-30
+27,Charlie,category b,los angeles,42.0,2023-09-10
+20,Bob,category a,chicago,25.0,2023-12-10

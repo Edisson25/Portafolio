@@ -1,0 +1,61 @@
+ID,Name,Category,City,Value,Date
+1,Charlie,Cat C,Chicago,46,4/13/2023
+2,Jane,Cat C,Houston,53,12/15/2023
+3,Jane,category a,Chicago,68,9/28/2023
+4,John,,New York,97,4/17/2023
+5,Jane,Cat C,Houston,71,3/13/2023
+6,Eve,category a,Los Angeles,61,7/8/2023
+7,Jane,Category A,Chicago,48,1/21/2023
+8,Bob,CATEGORY B,New York,65,4/13/2023
+9,Bob,CATEGORY B,Los Angeles,,5/2/2023
+10,Dave,CATEGORY B,Los Angeles,11,8/3/2023
+11,Bob,Cat C,,96,11/27/2023
+12,Dave,Category A,Houston,10,3/29/2023
+13,Bob,Cat C,Chicago,11,4/10/2023
+14,Eve,,New York,99,12/26/2023
+15,Grace,Cat C,,41,6/1/2023
+16,Dave,Category A,Houston,64,5/11/2023
+17,Alice,Category A,,26,5/30/2023
+18,Charlie,,Houston,33,11/5/2023
+19,John,Category A,Houston,79,9/15/2023
+20,Bob,Category A,Chicago,25,12/10/2023
+21,Jane,CATEGORY B,Houston,68,10/21/2023
+22,Grace,,,12,7/11/2023
+23,Bob,Category B,Houston,68,10/4/2023
+24,Jane,Category B,Chicago,99,6/10/2023
+25,Charlie,Category A,Chicago,28,11/10/2023
+26,Charlie,Category B,,80,1/22/2023
+27,Charlie,Category B,Los Angeles,42,9/10/2023
+28,Jane,Category A,Los Angeles,48,8/24/2023
+29,Bob,Category B,Houston,10,12/11/2023
+30,Charlie,Cat C,New York,66,2/18/2023
+31,Eve,category a,Houston,32,2/28/2023
+32,Dave,,,51,6/19/2023
+33,Jane,category a,,25,7/7/2023
+34,Jane,Category A,,69,9/28/2023
+35,Bob,CATEGORY B,,10,7/9/2023
+36,Jane,,,,6/24/2023
+37,Jane,Category A,Chicago,46,2/20/2023
+38,Charlie,CATEGORY B,Los Angeles,18,12/30/2023
+39,Bob,category a,,28,2/24/2023
+40,Charlie,Category A,New York,12,9/1/2023
+41,Dave,,New York,63,11/16/2023
+42,Grace,,New York,33,5/11/2023
+43,Dave,Cat-C,New York,81,11/3/2023
+44,Grace,Cat C,Chicago,93,5/15/2023
+45,Charlie,Category B,New York,98,1/21/2023
+46,Dave,CATEGORY B,,27,11/25/2023
+47,Bob,Cat-C,Houston,91,6/16/2023
+48,John,Category B,New York,44,10/1/2023
+49,Charlie,Category B,Chicago,50,3/30/2023
+50,Grace,Category A,Chicago,77,11/12/2023
+14,Eve,,New York,99,12/26/2023
+40,Charlie,Category A,New York,12,9/1/2023
+31,Eve,category a,Houston,32,2/28/2023
+46,Dave,CATEGORY B,,27,11/25/2023
+18,Charlie,,Houston,33,11/5/2023
+49,Charlie,Category B,Chicago,50,3/30/2023
+27,Charlie,Category B,Los Angeles,42,9/10/2023
+26,Charlie,Category B,,80,1/22/2023
+33,Jane,category a,,25,7/7/2023
+20,Bob,Category A,Chicago,25,12/10/2023
